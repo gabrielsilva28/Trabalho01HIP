@@ -1,3 +1,2 @@
-#  Primeiro Trabalho da disciplina Hipermidia 
-
-Buscador XML
+#  Buscador XML
+Utilizando Hash Invertido
